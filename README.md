@@ -52,8 +52,12 @@ I am passionate about creating and customizing Discord servers, designing creati
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nynele&show_icons=true&theme=calm&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=E2E8F0&border_color=27272A&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nynele&layout=compact&theme=calm&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=E2E8F0&border_color=27272A&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nynele&show_icons=true&theme=transparent&title_color=a855f7&text_color=e2e8f0&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nynele&layout=compact&theme=transparent&title_color=a855f7&text_color=e2e8f0&icon_color=06b6d4&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nynele&theme=transparent&hide_border=true&sideNums=e2e8f0&sideTitle=a855f7&stroke=06b6d4&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
